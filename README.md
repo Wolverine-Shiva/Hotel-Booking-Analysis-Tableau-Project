@@ -4,3 +4,6 @@
 
 
 By creating a Tableau dashboard with these elements, you can help hotel management make data-driven decisions, optimize pricing and marketing strategies, and enhance the overall guest experience. The dashboard should be designed to be user-friendly and customizable to meet the specific needs of the hotel and its stakeholders.
+
+Tableau Public:
+https://public.tableau.com/views/HotelBookingAnalysisTableauProject_16983218993830/HOTELBOOKINGANALYSISDASHBOARD?:display_count=n&:origin=viz_share_link
